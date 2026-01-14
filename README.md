@@ -132,9 +132,13 @@ Automated early warning alerts
 📁 Project Structure
 exam-failure-analysis/
 │
+
 ├── exam_data.csv
+
 ├── failure_analysis.ipynb
+
 ├── README.md
+
 └── .gitignore
 
 ▶️ How to Run the Project
@@ -156,6 +160,7 @@ Education-focused data analysis projects
 👤 Author
 
 Ekansh Jain
+
 Aspiring Data Analyst / Intern
 
 ⭐ Conclusion
