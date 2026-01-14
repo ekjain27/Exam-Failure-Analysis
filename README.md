@@ -116,3 +116,35 @@ Dashboard for faculty monitoring
 Integration with Learning Management Systems (LMS)
 
 Automated early warning alerts
+📁 Project Structure
+exam-failure-analysis/
+│
+├── exam_data.csv
+├── failure_analysis.ipynb
+├── README.md
+└── .gitignore
+
+🧪 How to Run
+
+Clone the repository
+
+Open failure_analysis.ipynb in Jupyter Notebook
+
+Run cells sequentially
+
+💼 Use Case
+
+Academic risk monitoring
+
+Student performance analytics
+
+Education-focused data analysis projects
+
+👤 Author
+
+Ekansh Jain
+Aspiring Data Analyst / Intern
+
+⭐ Conclusion
+
+This project demonstrates how data-driven analysis can support early academic intervention and improve educational outcomes using simple, explainable techniques.
